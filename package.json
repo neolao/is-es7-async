@@ -1,0 +1,11 @@
+{
+    "name": "is-es7-async",
+    "version": "1.0.0",
+    "author": "neolao <contact@neolao.com>",
+    "repository": "https://github.com/neolao/is-es7-async.git",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    }
+}
